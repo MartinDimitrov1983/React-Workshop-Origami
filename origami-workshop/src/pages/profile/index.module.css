@@ -1,0 +1,13 @@
+p{
+    text-decoration: underline;
+    margin-bottom: 1%;
+}
+
+.personal-info{
+    vertical-align: top;
+    padding: 10px;
+    margin: 0 auto;
+    color: #234465;
+    width: 50%;
+    text-align: center;
+}
