@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./index.module.css"
 import PageLayot from "../../components/page-layout"
 import Title from "../../components/title"
-import imageSource from "./imageSoirce"
+import imageSource from "./imageSource"
 
 const ErrorPage = () => {
 

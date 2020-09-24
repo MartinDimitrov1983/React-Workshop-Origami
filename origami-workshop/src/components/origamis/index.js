@@ -20,7 +20,7 @@ const Origamis = (props) => {
             const origamis = await getOrigami(props.length)
             setOrigamis(origamis)
         }                                          
-    }, [props.length])
+    }, [props.length, context.user.id])
 
 
     const renderOrigamis = () => {
